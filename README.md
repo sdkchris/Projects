@@ -13,3 +13,17 @@ Given a dataset comprising of around 18000 newsgroups posts on 20 topics split i
 * Do this using parallel computing 
 
 
+## 3. k-nearest neighbors algorithm implementation (KNN)
+Using the Iris datsets we 
+* learned k neighbors 
+* Predict class using majority voting
+* Evaluate
+
+
+## 4. Stochastic gradient descent (SGD)
+Implemented SGD, a function optimization method with:
+* Bold driver step
+* Newton step
+* AdaGrad
+
+
