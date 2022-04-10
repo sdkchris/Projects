@@ -27,3 +27,7 @@ Implemented SGD, a function optimization method with:
 * AdaGrad
 
 
+## 5. OLS
+* Implemented Ordinary least squares (OLS) and estimated unknown parameters in a linear regression model. 
+* Evaluated the influence of variance on model accuracy.
+
