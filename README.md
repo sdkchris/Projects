@@ -31,3 +31,10 @@ Implemented SGD, a function optimization method with:
 * Implemented Ordinary least squares (OLS) and estimated unknown parameters in a linear regression model. 
 * Evaluated the influence of variance on model accuracy.
 
+
+## 6. Audio word Embedding (vectorization)
+* Word embedding is a technique used for representing document vocabulary. 
+* Captures context of a word in a document, semantic and syntactic similarity, relation with other words, etc.
+* Methods: MFCC and Word2Vec
+
+
